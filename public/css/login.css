@@ -1,0 +1,21 @@
+.box_dangnhap{
+	border: 1px solid green;
+	border-radius: 5px;
+	background-image: url('../../image/bg1.jpg');
+	margin-bottom: 20px;
+}
+.facebook{
+	padding: 10px;
+}
+.gmail{
+	padding: 10px;
+	margin-bottom: 10px;
+}
+.box_dangnhapkhac{
+	border: 1px solid white;
+	border-radius: 5px;
+	background-color: white;
+}
+.box_dangnhapkhac button{
+	width: 200px;
+}

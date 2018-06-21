@@ -1,0 +1,41 @@
+.box_menu_quanly{
+	margin: 0px !important;
+	padding: 0px !important;
+}
+.menu_quanly{
+	margin: 10px;
+	border-radius: 4px;
+}
+.menu_quanly>li{
+	background-color: #183544;
+	border-radius: 4px;
+}
+.menu_quanly>li>a{
+	color: white;
+}
+.menu_quanly>li>a:hover{
+	color: white !important;
+	background-color: #183544 !important;
+	border-radius: 4px;
+}
+.menu_quanly>li>a>span{
+	float: right;
+}
+.tree{
+	border: 1px solid green;
+	margin-left: 10px;
+}
+.tree>li>a:hover{
+	color: black;
+}
+.box_noidung{
+	border: 1px solid green;
+	margin: 10px;
+	padding: 10px;
+	border-radius: 4px;
+}
+.box_hinh{
+	border: 1px solid green;
+	border-radius: 4px;
+	padding: 10px;
+}

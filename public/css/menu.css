@@ -1,0 +1,48 @@
+.main-menu ul li.active> a {
+	background: -webkit-linear-gradient(45deg, rgba(115,230,170,1) , rgb(8,203,249) 100%) !important;
+	border-radius: 4px;
+	margin: 10px;
+}
+.main-menu ul li> a {
+	border-radius: 4px;
+	margin: 10px;
+	padding: 10px;
+	line-height: 37px;
+}
+.header-bottom{
+	background-color: #183544 !important;
+}
+.single-item{
+	padding: 10px;
+	border: 1px solid white;
+	margin-bottom: 10px;
+}
+.content_product .slick-current{
+	border: 1px solid blue;
+}
+.single-item-price{
+	font-size: 15px !important;
+}
+.slick-slide img{
+	display: unset !important;
+}
+.single-item-header{
+	text-align: center;
+}
+.muacabo{
+	text-align: center;
+	border-radius: 4px;
+	padding-bottom: 20px;
+}
+.muacabo a{
+	color: white;
+	padding: 10px;
+	background-color: #00CCFF;
+	text-align: center;
+	border-radius: 4px;
+	margin: 10px;
+}
+.muacabo a:hover{
+	color: black;
+	background: -webkit-linear-gradient(45deg, rgba(115,230,170,1) , rgb(8,203,249) 100%);
+}
